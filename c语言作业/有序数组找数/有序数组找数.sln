@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "有序数组找数", "有序数组找数\有序数组找数.vcxproj", "{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Debug|x64.ActiveCfg = Debug|x64
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Debug|x64.Build.0 = Debug|x64
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Debug|x86.Build.0 = Debug|Win32
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Release|x64.ActiveCfg = Release|x64
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Release|x64.Build.0 = Release|x64
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Release|x86.ActiveCfg = Release|Win32
+		{50FEEEE1-7015-4AD3-B8C7-397CE6D160E0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AECCE9C-99F2-438D-9997-E93EF266C0AE}
+	EndGlobalSection
+EndGlobal

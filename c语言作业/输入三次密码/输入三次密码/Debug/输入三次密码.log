@@ -1,0 +1,3 @@
+﻿  输入三次密码.c
+e:\github库\c\c语言作业\输入三次密码\输入三次密码\输入三次密码.c(16): warning C4013: “strcmp”未定义；假设外部返回 int
+  输入三次密码.vcxproj -> E:\Github库\C\c语言作业\输入三次密码\Debug\输入三次密码.exe
