@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+e:\github库\c\c语言作业\三子棋\三子棋\game.c(173): warning C4715: “iswin”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> E:\Github库\C\c语言作业\三子棋\Debug\三子棋.exe
