@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "找数据中只出现一次的数", "找数据中只出现一次的数\找数据中只出现一次的数.vcxproj", "{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Debug|x64.ActiveCfg = Debug|x64
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Debug|x64.Build.0 = Debug|x64
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Debug|x86.ActiveCfg = Debug|Win32
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Debug|x86.Build.0 = Debug|Win32
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Release|x64.ActiveCfg = Release|x64
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Release|x64.Build.0 = Release|x64
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Release|x86.ActiveCfg = Release|Win32
+		{1DBF3EDA-F40D-4FE9-9331-AC5B8DE1544E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FEC8B94-2B14-4BCF-B6FC-3AFB21928E5E}
+	EndGlobalSection
+EndGlobal
