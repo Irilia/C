@@ -1,0 +1,12 @@
+﻿  game.c
+e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\game.c(2): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\game.c(1): note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\game.h(1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\game.c(2): note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  test.c
+e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\test.c(2): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\test.c(1): note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\game.h(1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  e:\github库\c\c语言作业\贪吃蛇\贪吃蛇\test.c(2): note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  正在生成代码...
+  贪吃蛇.vcxproj -> E:\Github库\C\c语言作业\贪吃蛇\Debug\贪吃蛇.exe
