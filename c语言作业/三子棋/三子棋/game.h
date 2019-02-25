@@ -4,8 +4,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#define ROW 9
-#define COL 9
+#define ROW 3
+#define COL 3
 
 
 void setboard(char arr[ROW][COL], int row, int col);

@@ -89,7 +89,7 @@ void findmine(char mine[ROWS][COLS], char show[ROWS][COLS], int rows, int cols)
 				if (number(show) == ROW * COL)//第一步踩雷时要替换雷位保证玩家不会first blood
 				{
 					firstsafe(mine, x, y);
-					//displayboard(mine, ROW, COL);//用来打印方便测试雷位有没有被替换
+					displayboard(mine, ROW, COL);//用来打印方便测试雷位有没有被替换
 					goto first;//替换之后继续判断该坐标，转到first
 				}
 				printf("YOU LOSE!GAME OVER!\n");//当玩家不是第一步踩雷时就输了
@@ -102,7 +102,7 @@ void findmine(char mine[ROWS][COLS], char show[ROWS][COLS], int rows, int cols)
 				first:
 				recfindmine(mine, show, x, y);//展开程序
 				displayboard(show, ROW, COL);
-				//displayboard(mine, ROW, COL);//方便测试
+				displayboard(mine, ROW, COL);//方便测试
 			}
 		}
 		else

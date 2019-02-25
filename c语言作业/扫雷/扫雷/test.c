@@ -21,7 +21,7 @@ int main()
 			displayboard(show, ROW, COL);//打印排查的棋盘9
 			//布雷
 			putmine(mine, ROW, COL);//
-			//displayboard(mine, ROW, COL);//打印用来方便测试
+			displayboard(mine, ROW, COL);//打印用来方便测试
 			//排雷
 			findmine(mine,show, ROW, COL);
 		}
