@@ -104,4 +104,53 @@
 //	system("pause");
 //	return 0;
 //}
+int Add(x, y)
+{
+	return x + y;
+}
+int Sub(x, y)
+{
+	return x - y;
+}
+int Mul(x, y)
+{
+	return x * y;
+}
+int Div(x, y)
+{
+	return x / y;
+}
+
+void menu()
+{
+	printf("*************************************\n");
+	printf("****      1.Add       2.Sub      ****\n");
+	printf("****      3.Mul       4.Div      ****\n");
+	printf("****            0.exit           ****\n");
+	printf("*************************************\n");
+}
+
+void cale(int(*pf)(int,int))
+{
+	printf("请输入两个操作数：");
+	int x = 0;
+	int y = 0;
+	scanf("%d%d", &x, &y);
+	int ret = pf(x, y);
+	printf("ret = %d", ret);
+}
+int main()
+{
+	int input = 0;
+	int(*p[5])(int.int) = { 0,Add,Sub,Mul,Div };
+	do
+	{
+		menu();
+		printf("请选择：");
+		calc(p[input]);
+
+	}while(input)
+	system("pause");
+	return 0;
+}
 

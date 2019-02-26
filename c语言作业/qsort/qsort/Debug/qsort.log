@@ -1,2 +1,3 @@
 ﻿  test.c
+e:\github库\c\c语言作业\qsort\qsort\test.c(146): warning C4113: “int (__cdecl *)()”和“int (__cdecl *)(int,int)”的参数列表不同
   qsort.vcxproj -> E:\Github库\C\c语言作业\qsort\Debug\qsort.exe
