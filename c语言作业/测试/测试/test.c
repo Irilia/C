@@ -33,15 +33,23 @@
 #include<stdio.h>
 int main()
 {
-	int arr[10] = { 0 };
-	int *p = arr;
-	int (*b)[10] = &arr;
-	/*printf("%p\n", p);*/
-	//printf("%p\n", &arr[1]);
-	/*printf("%p\n", b);*/
-	printf("%p\n", arr);
-	printf("%p\n", &arr);
+	//int arr[10] = { 0 };
+	//int *p = arr;
+	//int (*b)[10] = &arr;
+	///*printf("%p\n", p);*/
+	////printf("%p\n", &arr[1]);
+	///*printf("%p\n", b);*/
+	//printf("%p\n", arr);
+	//printf("%p\n", &arr);
 
+	/*char a = 'A';
+	printf("%c", a + 32);*/
+	int a = 0;
+	for (int i = 0; i < 5; i++)
+	{
+		a = a++;//0[1]
+	}
+	printf("%d", a);
 	system("pause");
 	return 0;
 }
